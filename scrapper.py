@@ -88,8 +88,6 @@ def get_datos_html(i=1):
                         gpu = buscar_gpu(pc_data)
                         inches = '.'.join([s for s in re.findall(r'\b\d+\b', pc_data[-1])])
                         OpSys = bucar_opsys(pc_data,marca)
-                        # print(['Company','Inches','Cpu','Ram','Gpu','OpSys','SSD','Price'])
-                        # print([marca,inches,cpu,pc_data[1],gpu,OpSys,pc_data[2],price])
                             
                         row = {
                             'Company':marca,

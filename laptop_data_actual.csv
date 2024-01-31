@@ -11,9 +11,9 @@ MSI,17.3,intel core i7-13700h,16gb,rtx 4070,No Os/ Linux,1tb ssd,1399
 
 Asus,14,intel core i7-1360p,16gb,integrated graphics,No Os/ Linux,512gb ssd,1259.01
 
-Alurin,15.6.11,amd ryzen 5 5500u,8gb,integrated graphics,Windows,500gb ssd,509.89
+Alurin,15.6,amd ryzen 5 5500u,8gb,integrated graphics,Windows,500gb ssd,509.89
 
-PcCom,15.6.11,intel core i7-13700h,16gb,rtx 3050,Windows,1tb ssd,1599.77
+PcCom,15.6,intel core i7-13700h,16gb,rtx 3050,Windows,1tb ssd,1599.77
 
 Asus,15.6,amd ryzen 7 7730u,16gb,integrated graphics,No Os/ Linux,512gb ssd,549
 
@@ -103,9 +103,9 @@ MSI,17.3,intel core i7-13700h,16gb,rtx 4070,No Os/ Linux,1tb ssd,1399
 
 Asus,14,intel core i7-1360p,16gb,integrated graphics,No Os/ Linux,512gb ssd,1259.01
 
-Alurin,15.6.11,amd ryzen 5 5500u,8gb,integrated graphics,Windows,500gb ssd,509.89
+Alurin,15.6,amd ryzen 5 5500u,8gb,integrated graphics,Windows,500gb ssd,509.89
 
-PcCom,15.6.11,intel core i7-13700h,16gb,rtx 3050,Windows,1tb ssd,1599.77
+PcCom,15.6,intel core i7-13700h,16gb,rtx 3050,Windows,1tb ssd,1599.77
 
 Asus,15.6,amd ryzen 7 7730u,16gb,integrated graphics,No Os/ Linux,512gb ssd,549
 
@@ -287,7 +287,7 @@ MSI,17.3,intel core i7-13700h,16gb,rtx 4070,No Os/ Linux,1tb ssd,1399
 
 Asus,14,intel core i7-1360p,16gb,integrated graphics,No Os/ Linux,512gb ssd,1259.01
 
-Alurin,15.6.11,amd ryzen 7 5700u,16gb,integrated graphics,Windows,1tb ssd,739.9
+Alurin,15.6,amd ryzen 7 5700u,16gb,integrated graphics,Windows,1tb ssd,739.9
 
 MSI,15.6,intel core i7-1355u,16gb,integrated graphics,No Os/ Linux,512gb ssd,729
 
@@ -337,7 +337,7 @@ Lenovo,17.3,amd ryzen 5 5625u,8gb,integrated graphics,No Os/ Linux,512gb ssd,689
 
 Lenovo,15.6,intel core i5-13420h,8gb,integrated graphics,No Os/ Linux,512gb ssd,589
 
-Alurin,15.6.11,intel core i5-1155g7,16gb,integrated graphics,Windows,1tb ssd,599.91
+Alurin,15.6,intel core i5-1155g7,16gb,integrated graphics,Windows,1tb ssd,599.91
 
 Dell,15.6,intel core i5-1135g7,8 gb,integrated graphics,No Os/ Linux,512gb ssd,538.99
 
@@ -425,11 +425,11 @@ HP,14,intel core i7-1355u,16gb,integrated graphics,No Os/ Linux,1tb ssd,1299
 
 Medion,15.6,intel core i5-10210u,8 gb,integrated graphics,No Os/ Linux,256 gb ssd,390.99
 
-Alurin,15.6.11,intel core i7-1255u,16gb,integrated graphics,Windows,500gb ssd,789.9
+Alurin,15.6,intel core i7-1255u,16gb,integrated graphics,Windows,500gb ssd,789.9
 
 MSI,17.3,amd ryzen 9 7945hx,32gb,rtx 4070,No Os/ Linux,1tb ssd,1689
 
-PcCom,15.6.11,intel core i5-13500h,16gb,rtx 4050,Windows,500gb ssd,1139.9
+PcCom,15.6,intel core i5-13500h,16gb,rtx 4050,Windows,500gb ssd,1139.9
 
 Microsoft,12.4,intel core i5-1235u,16gb,integrated graphics,No Os/ Linux,256gb ssd,1139
 
@@ -549,7 +549,7 @@ MSI,13.3,intel core i5-1340p,16gb,integrated graphics,No Os/ Linux,512gb ssd,979
 
 MSI,16,intel core i9-13900h,32gb,rtx 4060,No Os/ Linux,1tb ssd,1769
 
-Alurin,15.6.11,amd ryzen 7 5700u,16gb,integrated graphics,Windows,500gb ssd,569.9
+Alurin,15.6,amd ryzen 7 5700u,16gb,integrated graphics,Windows,500gb ssd,569.9
 
 Lenovo,15.6,intel core i5-12450h,16gb,integrated graphics,No Os/ Linux,512gb ssd,599
 
@@ -725,7 +725,7 @@ Lenovo,17.3,intel core i3-1315u,8gb,integrated graphics,No Os/ Linux,256gb ssd,5
 
 MSI,17,intel core i7-13700hx,32gb,rtx 4060,No Os/ Linux,1tb ssd,2299
 
-PcCom,15.6.11,intel core i5-13500h,16gb,rtx 4050,Windows,1tb,1159.91
+PcCom,15.6,intel core i5-13500h,16gb,rtx 4050,Windows,1tb,1159.91
 
 Asus,15.6,intel core i3-1115g4,8gb,integrated graphics,No Os/ Linux,512gb ssd,419
 
@@ -797,7 +797,7 @@ Gigabyte,15.6,intel core i5-13500h,16gb,rtx 4060,No Os/ Linux,1tb ssd,1119
 
 Lenovo,15.6,amd ryzen 5 7520u,16gb,integrated graphics,No Os/ Linux,512gb ssd,575.99
 
-Alurin,15.6.11,amd ryzen 5 5500u,8gb,integrated graphics,Windows,500gb ssd,509.89
+Alurin,15.6,amd ryzen 5 5500u,8gb,integrated graphics,Windows,500gb ssd,509.89
 
 Alurin,15.6,intel core i5-1235u,16gb,integrated graphics,No Os/ Linux,1tb ssd,649
 
@@ -957,7 +957,7 @@ MSI,17.3,intel core i7-13620h,16gb,rtx 4050,No Os/ Linux,1tb ssd,1337.54
 
 Medion,15.6,intel core i3-1115g4,8gb,integrated graphics,No Os/ Linux,256gb ssd,369
 
-PcCom,15.6.11,intel core i7-13700h,32gb,rtx 4060,Windows,1tb ssd,1510
+PcCom,15.6,intel core i7-13700h,32gb,rtx 4060,Windows,1tb ssd,1510
 
 Asus,15.6,amd ryzen 7 7735hs,16gb,rtx 4060,No Os/ Linux,1tb ssd,1791.32
 
@@ -991,7 +991,7 @@ LG,15,intel core i7-1360p,32gb,integrated graphics,No Os/ Linux,512gb ssd,1679
 
 MSI,16,intel core i7-13700h,32gb,rtx 4070,No Os/ Linux,1tb ssd,2199.55
 
-PcCom,15.6.11,intel core i7-13700h,16gb,rtx 3050,Windows,1tb ssd,1229.9
+PcCom,15.6,intel core i7-13700h,16gb,rtx 3050,Windows,1tb ssd,1229.9
 
 Deep Gaming,15.6,intel core i7-13700h,64gb,rtx 3050,No Os/ Linux,1tb ssd,1414
 
@@ -1003,7 +1003,7 @@ MSI,16,intel core i7-13700h,32gb,rtx 4060,No Os/ Linux,1tb ssd,1849
 
 Alurin,15.6,intel core i7-1255u,16gb,integrated graphics,No Os/ Linux,1tb ssd,768.86
 
-Alurin,15.6.11,intel core i7-1255u,16gb,integrated graphics,Windows,1tb ssd,809.9
+Alurin,15.6,intel core i7-1255u,16gb,integrated graphics,Windows,1tb ssd,809.9
 
 HP,15.6,intel celeron n4500,8gb,integrated graphics,No Os/ Linux,128gb emmc,374.73
 
@@ -1023,7 +1023,7 @@ MSI,17.3,intel core i7-13700h,16gb,rtx 4070,No Os/ Linux,1tb ssd,1399
 
 Asus,14,intel core i7-1360p,16gb,integrated graphics,No Os/ Linux,512gb ssd,1259.01
 
-Samsung,15.6.365.12,intel core i7-1355u,16gb,integrated graphics,No Os/ Linux,512gb ssd,1220.84
+Samsung,15.6,intel core i7-1355u,16gb,integrated graphics,No Os/ Linux,512gb ssd,1220.84
 
 Asus,14,intel celeron n4500,8gb,integrated graphics,No Os/ Linux,64gb emmc,379
 
@@ -1271,7 +1271,7 @@ Asus,16,intel core i5-12450h,16gb,rtx 3050,No Os/ Linux,512gb ssd,979.99
 
 Dell,14,intel core i5-1335u,16gb,integrated graphics,No Os/ Linux,512gb ssd,1001.49
 
-HP,15.6.11,intel core i7-1255u,16gb,integrated graphics,Windows,512gb ssd,979
+HP,15.6,intel core i7-1255u,16gb,integrated graphics,Windows,512gb ssd,979
 
 MSI,15.6,intel core i9-13900h,32gb,integrated graphics,No Os/ Linux,1tb ssd,1109
 
@@ -1403,7 +1403,7 @@ Apple,14.2,m1 pro,16gb,integrated graphics,MacOs,512gb ssd,1968.99
 
 Dell,14,intel core i5-1235u,8gb,integrated graphics,No Os/ Linux,512gb ssd,698.99
 
-HP,15.6.365.12.3,amd ryzen 5 5500u,16gb,integrated graphics,No Os/ Linux,512gb ssd,669
+HP,15.63,amd ryzen 5 5500u,16gb,integrated graphics,No Os/ Linux,512gb ssd,669
 
 HP,15.6,intel core i7-1255u,16gb,integrated graphics,No Os/ Linux,512gb ssd,708.01
 
@@ -1429,7 +1429,7 @@ Asus,16,intel core i7-12650h,16gb,rtx 3050,No Os/ Linux,512gb ssd,959.9
 
 Asus,14,amd ryzen 7 5800h,16gb,integrated graphics,No Os/ Linux,512gb ssd,899
 
-Dell,15.6.365.12.3,intel core i5-1235u,16gb,integrated graphics,No Os/ Linux,512gb ssd,669
+Dell,15.63,intel core i5-1235u,16gb,integrated graphics,No Os/ Linux,512gb ssd,669
 
 MSI,16,intel core i9-13900h,64gb,rtx 4070,No Os/ Linux,1tb ssd,2599
 
@@ -1445,7 +1445,7 @@ Asus,14.5,intel core i9-13900h,32gb,rtx 4060,No Os/ Linux,1tb ssd,2499
 
 HP,15.6,amd ryzen 5 7520u,16gb,integrated graphics,No Os/ Linux,1tb ssd,628.99
 
-Lenovo,15.6.11,intel core i5-1155g7,16gb,integrated graphics,Windows,512gb ssd,789
+Lenovo,15.6,intel core i5-1155g7,16gb,integrated graphics,Windows,512gb ssd,789
 
 MSI,15.6,intel core i7-1355u,16gb,integrated graphics,No Os/ Linux,512gb ssd,855.77
 
@@ -1631,7 +1631,7 @@ Medion,15.6,intel core i5-1155g7,16gb,integrated graphics,No Os/ Linux,512gb ssd
 
 Acer,15.6,amd ryzen 5 7520u,16gb,integrated graphics,No Os/ Linux,1tb ssd,601.45
 
-Acer,15.6.365.12.3,intel core i5-1235u,8gb,integrated graphics,No Os/ Linux,512gb ssd,819
+Acer,15.63,intel core i5-1235u,8gb,integrated graphics,No Os/ Linux,512gb ssd,819
 
 HP,15.6,amd ryzen 7 7730u,16gb,integrated graphics,No Os/ Linux,512gb ssd,649
 
@@ -2929,7 +2929,7 @@ Lenovo,14,intel core i5-1235u,8gb,integrated graphics,No Os/ Linux,512gb ssd,648
 
 Acer,15.6,intel core i5-1035g1,8gb,integrated graphics,No Os/ Linux,256gb ssd,607.62
 
-HP,15.6.15.6,intel core i3-1115g4,8gb,integrated graphics,No Os/ Linux,256gb ssd,569
+HP,15.6,intel core i3-1115g4,8gb,integrated graphics,No Os/ Linux,256gb ssd,569
 
 MSI,15.6,amd ryzen 5 7530u,16gb,integrated graphics,No Os/ Linux,512gb ssd,616.62
 
@@ -2945,7 +2945,7 @@ Asus,16,intel core i7-11370h,8gb,integrated graphics,No Os/ Linux,512gb ssd,579.
 
 Acer,15.6,intel core i5-1135g7,8gb,integrated graphics,No Os/ Linux,256gb ssd,648.99
 
-Apple,12,intel core i5,512gb,integrated graphics,MacOs,"12"" gris espacial",465
+Apple,12,intel core i5,8gb,integrated graphics,MacOs,128gb ssd,465
 
 HP,15.6,amd ryzen 5 7520u,8gb,integrated graphics,No Os/ Linux,512gb ssd,564.1
 
@@ -3045,7 +3045,7 @@ HP,15.6,amd ryzen 3 5300u,8gb,integrated graphics,No Os/ Linux,256gb ssd,444.6
 
 HP,15.6,amd ryzen 3 5300u,8gb,integrated graphics,No Os/ Linux,256gb ssd,517.28
 
-HP,15.6.365.12.3,intel core i3-1115g4,8gb,integrated graphics,No Os/ Linux,256gb ssd,609.01
+HP,15.63,intel core i3-1115g4,8gb,integrated graphics,No Os/ Linux,256gb ssd,609.01
 
 Lenovo,14,amd 3015e,4gb,integrated graphics,No Os/ Linux,128gb ssd,667.9
 
@@ -3293,7 +3293,7 @@ Asus,14,intel core i5-1240p,8gb,integrated graphics,No Os/ Linux,256gb ssd,771.4
 
 Acer,15.6,intel celeron n100,8gb,integrated graphics,No Os/ Linux,256gb ssd,240.4
 
-Acer,15.6.1200,intel core i7-1195g7,16gb,integrated graphics,No Os/ Linux,512gb ssd,1220.51
+Acer,15.6,intel core i7-1195g7,16gb,integrated graphics,No Os/ Linux,512gb ssd,1220.51
 
 Gigabyte,14,intel core i7-13700h,16gb,rtx 4050,No Os/ Linux,1tb ssd,1969
 
@@ -3403,7 +3403,7 @@ Asus,14,m3-8100y,8gb,integrated graphics,No Os/ Linux,64gb emmc,1289.6
 
 Asus,16,intel core i5-1235u,16gb,integrated graphics,No Os/ Linux,256gb ssd,749
 
-Asus,15.6.3,intel core i3-1115g4,8gb,integrated graphics,No Os/ Linux,256gb ssd,748.86
+Asus,15.6,intel core i3-1115g4,8gb,integrated graphics,No Os/ Linux,256gb ssd,748.86
 
 Asus,14,intel celeron n4020,4gb,integrated graphics,No Os/ Linux,64gb emmc,279
 
@@ -3567,13 +3567,13 @@ Asus,15.6,intel core i7-1065g7,8gb,integrated graphics,No Os/ Linux,512gb ssd,18
 
 Asus,15.6,intel core i5-1135g7,16gb,integrated graphics,No Os/ Linux,512gb ssd,514.05
 
-Asus,15.6.365.12.3,amd ryzen 7 7730u,16gb,integrated graphics,No Os/ Linux,512gb ssd,839
+Asus,15.6,amd ryzen 7 7730u,16gb,integrated graphics,No Os/ Linux,512gb ssd,839
 
 Asus,15.6,intel core i3-1215u,8gb,integrated graphics,No Os/ Linux,256gb ssd,534.28
 
 Asus,15.6,intel core i5-1235u,8gb,integrated graphics,No Os/ Linux,512gb ssd,550.33
 
-Asus,16.365.12.1,intel core i7-11370h,8gb,integrated graphics,No Os/ Linux,512gb ssd,881
+Asus,16.3,intel core i7-11370h,8gb,integrated graphics,No Os/ Linux,512gb ssd,881
 
 Asus,15.6,intel core i5-1135g7,8gb,integrated graphics,No Os/ Linux,512gb ssd,684.87
 
@@ -3585,7 +3585,7 @@ Asus,16,intel core i7-13700h,16gb,rtx 4060,No Os/ Linux,1tb ssd,1921.39
 
 Asus,16,intel core i5-1135g7,12gb,integrated graphics,No Os/ Linux,512gb ssd,845.88
 
-Asus,15.6.365.12.1,amd ryzen 5 7520u,8gb,integrated graphics,No Os/ Linux,512gb ssd,661
+Asus,15.61,amd ryzen 5 7520u,8gb,integrated graphics,No Os/ Linux,512gb ssd,661
 
 Asus,15.6,pentium n6000,4gb,integrated graphics,No Os/ Linux,128gb emmc,317.5
 
@@ -3697,17 +3697,17 @@ Acer,14,intel core i5-1135g7,8gb,integrated graphics,No Os/ Linux,512gb ssd,778.
 
 Acer,14,intel core i5-1135g7,16gb,integrated graphics,No Os/ Linux,512gb ssd,912.36
 
-Alurin,15.6.11,amd ryzen 5 5500u,16gb,integrated graphics,Windows,500gb ssd,588.86
+Alurin,15.6,amd ryzen 5 5500u,16gb,integrated graphics,Windows,500gb ssd,588.86
 
 Alurin,15.6,amd ryzen 5 5500u,8gb,integrated graphics,No Os/ Linux,256gb ssd,315.2
 
-Alurin,15.6.11,amd ryzen 5 5500u,8gb,integrated graphics,Windows,256gb,479.9
+Alurin,15.6,amd ryzen 5 5500u,8gb,integrated graphics,Windows,256gb,479.9
 
-Alurin,15.6.11,amd ryzen 7 5700u,16gb,integrated graphics,Windows,1tb ssd,629.9
+Alurin,15.6,amd ryzen 7 5700u,16gb,integrated graphics,Windows,1tb ssd,629.9
 
 Alurin,15.6,amd ryzen 7 5700u,8gb,integrated graphics,No Os/ Linux,500gb ssd,469.9
 
-Alurin,15.6.11,amd ryzen 7 5700u,8gb,integrated graphics,Windows,500gb ssd,589.9
+Alurin,15.6,amd ryzen 7 5700u,8gb,integrated graphics,Windows,500gb ssd,589.9
 
 Alurin,15.6,intel core i5-1155g7,16gb,integrated graphics,No Os/ Linux,500gb ssd,529.9
 
@@ -3723,9 +3723,9 @@ MSI,17.3,intel core i7-13700h,16gb,rtx 4070,No Os/ Linux,1tb ssd,1399
 
 Asus,14,intel core i7-1360p,16gb,integrated graphics,No Os/ Linux,512gb ssd,1259.01
 
-Alurin,15.6.11,intel core i3-1125g4,8gb,integrated graphics,Windows,256gb ssd,449.9
+Alurin,15.6,intel core i3-1125g4,8gb,integrated graphics,Windows,256gb ssd,449.9
 
-Alurin,15.6.11,intel core i3-1125g4,8gb,integrated graphics,Windows,500gb ssd,489.9
+Alurin,15.6,intel core i3-1125g4,8gb,integrated graphics,Windows,500gb ssd,489.9
 
 Alurin,15.6,intel core i5-1155g7,16gb,integrated graphics,No Os/ Linux,500gb ssd,499.9
 
@@ -3735,7 +3735,7 @@ Alurin,15.6,intel core i5-1155g7,16gb,integrated graphics,No Os/ Linux,500gb ssd
 
 Alurin,15.6,intel core i5-1155g7,16gb,integrated graphics,No Os/ Linux,500gb ssd,529.9
 
-Alurin,15.6.11,intel core i5-1155g7,8gb,integrated graphics,Windows,256gb,519.9
+Alurin,15.6,intel core i5-1155g7,8gb,integrated graphics,Windows,256gb,519.9
 
 Alurin,14,intel core i5-1155g7,8gb,integrated graphics,No Os/ Linux,500gb ssd,419.89
 
@@ -3753,19 +3753,19 @@ Alurin,14.1,pentium n4200,8gb,integrated graphics,No Os/ Linux,256gb ssd,354
 
 Alurin,15.6,amd ryzen 7 5700u,16gb,integrated graphics,No Os/ Linux,500gb ssd,589.9
 
-Alurin,15.6.11,amd ryzen 7 5700u,16gb,integrated graphics,Windows,500gb ssd,659.9
+Alurin,15.6,amd ryzen 7 5700u,16gb,integrated graphics,Windows,500gb ssd,659.9
 
 Alurin,15.6,amd ryzen 7 5700u,8gb,integrated graphics,No Os/ Linux,500gb ssd,519.9
 
-Alurin,15.6.11,intel core i5-1235u,16gb,integrated graphics,Windows,1tb ssd,699.9
+Alurin,15.6,intel core i5-1235u,16gb,integrated graphics,Windows,1tb ssd,699.9
 
 Alurin,15.6,intel core i5-1235u,16gb,integrated graphics,No Os/ Linux,500gb ssd,559.9
 
-Alurin,15.6.11,intel core i5-1235u,16gb,integrated graphics,Windows,500gb ssd,739
+Alurin,15.6,intel core i5-1235u,16gb,integrated graphics,Windows,500gb ssd,739
 
 Alurin,15.6,intel core i5-1235u,8gb,integrated graphics,No Os/ Linux,500gb ssd,529.9
 
-Alurin,15.6.11,intel core i5-1235u,8gb,integrated graphics,Windows,500gb ssd,649.9
+Alurin,15.6,intel core i5-1235u,8gb,integrated graphics,Windows,500gb ssd,649.9
 
 Apple,13.3,m1,8 gb,gpu octa core,MacOs,512gb ssd,1076.99
 
@@ -3791,7 +3791,7 @@ Apple,13.3,intel core i5,8gb,integrated graphics,MacOs,512gb ssd,879.99
 
 Apple,13.3,intel core i5,8gb,integrated graphics,MacOs,512gb ssd,889.99
 
-Apple,12,intel core i5,512gb,integrated graphics,MacOs,"12"" plata",659
+Apple,12,intel core i5,512gb,integrated graphics,MacOs,"128gb ssd" plata",659
 
 Apple,16.2,max,32gb,integrated graphics,MacOs,1tb ssd,3054.99
 
@@ -4023,8 +4023,6 @@ Dynabook Toshiba,15.6,intel core i7-10510u,8gb,integrated graphics,No Os/ Linux,
 
 Dynabook Toshiba,15.6,intel core i5-1135g7,8gb,integrated graphics,No Os/ Linux,256gb ssd,551.09
 
-Fujitsu,15.6.10,intel core i5-1110g,8gb,integrated graphics,No Os/ Linux,256gb ssd,553.23
-
 Gigabyte,15.6,amd ryzen 9 5900hx,16gb,rtx 3070,No Os/ Linux,512gbssd,1195.95
 
 Gigabyte,17.3,amd ryzen 9 5900hx,16gb,rtx3070,No Os/ Linux,512gb ssd,1070.7
@@ -4115,7 +4113,7 @@ HP,15.6,amd ryzen 5 7520u,8gb,integrated graphics,No Os/ Linux,512gb ssd,519.5
 
 HP,15.6,amd ryzen 7 7730u,8gb,integrated graphics,No Os/ Linux,512gb ssd,671.05
 
-HP,15.6.365.12.1,amd ryzen 3 7320u,8gb,integrated graphics,No Os/ Linux,256gb ssd,541
+HP,15.61,amd ryzen 3 7320u,8gb,integrated graphics,No Os/ Linux,256gb ssd,541
 
 HP,15.6,intel core i5-1335u,16gb,integrated graphics,No Os/ Linux,512gb ssd,618.27
 
@@ -4147,7 +4145,7 @@ HP,15.6,intel core i5-1155g7,8gb,integrated graphics,No Os/ Linux,512gb ssd,615.
 
 HP,15.6,intel core i5-1155g7,8gb,integrated graphics,No Os/ Linux,1tb ssd,672.21
 
-HP,15.6.365.12,intel core i5-1235u,8gb,integrated graphics,No Os/ Linux,512gb ssd,760.85
+HP,15.6,intel core i5-1235u,8gb,integrated graphics,No Os/ Linux,512gb ssd,760.85
 
 HP,15.6,intel core i5-1235u,8gb,integrated graphics,No Os/ Linux,512gb ssd,723.6
 
@@ -4161,7 +4159,7 @@ HP,15.6,intel core i7-1255u,16gb,integrated graphics,No Os/ Linux,512 gb ssd,708
 
 HP,15.6,intel celeron n4020,8gb,integrated graphics,No Os/ Linux,256gb ssd,343.6
 
-HP,15.6.365.12,intel core i3-1115g4,8gb,integrated graphics,No Os/ Linux,256gb ssd,608.8
+HP,15.6,intel core i3-1115g4,8gb,integrated graphics,No Os/ Linux,256gb ssd,608.8
 
 HP,15.6,intel core i5-1155g7,16gb,integrated graphics,No Os/ Linux,512gb ssd,1021.2
 
@@ -4367,7 +4365,7 @@ MSI,17.3,intel core i7-13700h,16gb,rtx 4070,No Os/ Linux,1tb ssd,1399
 
 Asus,14,intel core i7-1360p,16gb,integrated graphics,No Os/ Linux,512gb ssd,1259.01
 
-Innjoo,14.1.10,intel celeron n3350,4gb,integrated graphics,No Os/ Linux,64gb emmc,241.91
+Innjoo,14.1,intel celeron n3350,4gb,integrated graphics,No Os/ Linux,64gb emmc,241.91
 
 Innjoo,14.1,intel celeron n3350,6gb,integrated graphics,No Os/ Linux,128gb emmc,2367.88
 
@@ -5215,31 +5213,31 @@ MSI,14,intel core i5-1240p,16gb,integrated graphics,No Os/ Linux,512 gb ssd,1182
 
 PcCom,15.6,intel core i5-13500h,16gb,rtx 3050,No Os/ Linux,500gb ssd,899.9
 
-PcCom,15.6.11,intel core i5-13500h,16gb,rtx 3050,Windows,500gb ssd,1019.9
+PcCom,15.6,intel core i5-13500h,16gb,rtx 3050,Windows,500gb ssd,1019.9
 
 PcCom,15.6,intel core i7-13700h,16gb,rtx 3050,No Os/ Linux,500gb,1079.9
 
 PcCom,15.6,intel core i5-13500h,16gb,rtx 4050,No Os/ Linux,500gb ssd,1019.9
 
-PcCom,15.6,intel core i5-13500h,rtx 4050,rtx 4050,No Os/ Linux,"15.6""",1221.56
+PcCom,15.6,intel core i5-13500h,rtx 4050,rtx 4050,No Os/ Linux,1tbssd,1221.56
 
-PcCom,15.6.11,intel core i5-13500h,16gb,rtx 4060,Windows,500gb ssd,1289.9
+PcCom,15.6,intel core i5-13500h,16gb,rtx 4060,Windows,500gb ssd,1289.9
 
 PcCom,15.6,intel core i5-13500h,16gb,rtx 4060,No Os/ Linux,500gb ssd,1169.9
 
-PcCom,15.6.11,intel core i7-13700h,16gb,rtx 4060,Windows,1tb ssd,1469.9
+PcCom,15.6,intel core i7-13700h,16gb,rtx 4060,Windows,1tb ssd,1469.9
 
 PcCom,17.3,intel core i7-13700h,16gb,rtx 4060,No Os/ Linux,1tb ssd,1419.9
 
-PcCom,17.3.11,intel core i7-13700h,16gb,rtx 4060,Windows,1tb ssd,1549.9
+PcCom,17.3,intel core i7-13700h,16gb,rtx 4060,Windows,1tb ssd,1549.9
 
-PcCom,15.6.11,intel core i7-13700h,16gb,rtx 4060,Windows,500gb ssd,1449.89
+PcCom,15.6,intel core i7-13700h,16gb,rtx 4060,Windows,500gb ssd,1449.89
 
 PcCom,15.6,intel core i7-13700h,16gb,rtx 4060,No Os/ Linux,500gb ssd,1319.9
 
 PcCom,17.3,intel core i7-13700h,16gb,rtx 4060,No Os/ Linux,500gb ssd,1399.9
 
-PcCom,17.3.11,intel core i7-13700h,16gb,rtx 4060,Windows,500gb ssd,1529.9
+PcCom,17.3,intel core i7-13700h,16gb,rtx 4060,Windows,500gb ssd,1529.9
 
 PcCom,15.6,intel core i7-13700h,32gb,rtx 4060,No Os/ Linux,1tb ssd,1449.89
 
@@ -5251,15 +5249,15 @@ PcCom,17.3,intel core i7-13700h,32gb,rtx 4060,No Os/ Linux,1tb ssd,1489.9
 
 PcCom,15.6,intel core i7-13700h,32gb,rtx 4060,No Os/ Linux,500gb ssd,1389.9
 
-PcCom,15.6.11,intel core i7-13700h,32gb,rtx 4060,Windows,500gb ssd,1949.76
+PcCom,15.6,intel core i7-13700h,32gb,rtx 4060,Windows,500gb ssd,1949.76
 
 PcCom,17.3,intel core i7-13700h,32gb,rtx 4060,No Os/ Linux,500gb ssd,1459.9
 
-PcCom,17.3.11,intel core i7-13700h,32gb,rtx 4060,Windows,500gb ssd,1589.9
+PcCom,17.3,intel core i7-13700h,32gb,rtx 4060,Windows,500gb ssd,1589.9
 
 PcCom,17.3,intel core i7-13700hx,16gb,rtx 4070,No Os/ Linux,1tb ssd,1709.9
 
-PcCom,17.3.11,intel core i7-13700hx,16gb,rtx 4070,Windows,1tb ssd,1839.9
+PcCom,17.3,intel core i7-13700hx,16gb,rtx 4070,Windows,1tb ssd,1839.9
 
 PcCom,17.3,intel core i7-13700hx,32gb,rtx 4070,No Os/ Linux,1tb ssd,1749.9
 
@@ -5269,11 +5267,11 @@ PcCom,17.3,intel core i7-13700hx,32gb,rtx 4070,No Os/ Linux,1tb ssd,1839.99
 
 PcCom,15.6,intel core i7-13700hx,16gb,rtx 4070,No Os/ Linux,1tb ssd,1669.9
 
-PcCom,15.6.11,intel core i7-13700hx,16gb,rtx 4070,Windows,1tb ssd,1799.9
+PcCom,15.6,intel core i7-13700hx,16gb,rtx 4070,Windows,1tb ssd,1799.9
 
 PcCom,15.6,intel core i7-13700hx,16gb,rtx 4070,No Os/ Linux,500gb ssd,1649.9
 
-PcCom,15.6.11,intel core i7-13700hx,16gb,rtx 4070,Windows,500gb ssd,1779.9
+PcCom,15.6,intel core i7-13700hx,16gb,rtx 4070,Windows,500gb ssd,1779.9
 
 Lenovo,15.6,intel core i5-12450h,16gb,integrated graphics,No Os/ Linux,512gb ssd,599
 
@@ -5289,7 +5287,7 @@ Asus,14,intel core i7-1360p,16gb,integrated graphics,No Os/ Linux,512gb ssd,1259
 
 PcCom,15.6,intel core i7-13700hx,32gb,rtx 4070,No Os/ Linux,1tb ssd,1759.99
 
-PcCom,15.6.11,intel core i7-13700hx,32gb,rtx 4070,Windows,1tb ssd,1879.9
+PcCom,15.6,intel core i7-13700hx,32gb,rtx 4070,Windows,1tb ssd,1879.9
 
 PcCom,17.3,intel core i7-13700hx,32gb,rtx 4070,No Os/ Linux,1tb ssd,1829.9
 
@@ -5297,23 +5295,21 @@ PcCom,17.3,intel core i7-13700hx,32gb,rtx 4070,No Os/ Linux,1tb ssd,1829.9
 
 PcCom,15.6,intel core i7-13700hx,32gb,rtx 4070,No Os/ Linux,500gb ssd,1719.89
 
-PcCom,15.6.11,intel core i7-13700hx,32gb,rtx 4070,Windows,500gb ssd,1849.9
+PcCom,15.6,intel core i7-13700hx,32gb,rtx 4070,Windows,500gb ssd,1849.9
 
 PcCom,17.3,intel core i7-13700hx,32gb,rtx 4070,No Os/ Linux,500gb ssd,1729.9
 
-PcCom,,intel core i7-13700hx,rtx 4070,rtx 4070,Windows,"17.3""",1859.9
-
-PcCom,,intel core i7-13700hx,rtx 4070,rtx 4070,No Os/ Linux,qhd,1969.9
+PcCom,17.3,intel core i7-13700hx,rtx 4070,rtx 4070,Windows,1tb ssd,1859.9
 
 PcCom,17.3,intel core i7-13700hx,16gb,rtx 4070,No Os/ Linux,1tb ssd,1929.9
 
-PcCom,17.3.11,intel core i7-13700hx,16gb,rtx 4070,Windows,1tb ssd,2049.9
+PcCom,17.3,intel core i7-13700hx,16gb,rtx 4070,Windows,1tb ssd,2049.9
 
 PcCom,17.3,intel core i7-13700hx,32gb,rtx 4070,No Os/ Linux,1tb ssd,1999.98
 
-PcCom,17.3.11,intel core i7-13700hx,32gb,rtx 4070,Windows,1tb ssd,2119.9
+PcCom,17.3,intel core i7-13700hx,32gb,rtx 4070,Windows,1tb ssd,2119.9
 
-PcCom,17.3.11,intel core i7-13700hx,32gb,rtx 4070,Windows,500gb ssd,2099.89
+PcCom,17.3,intel core i7-13700hx,32gb,rtx 4070,Windows,500gb ssd,2099.89
 
 PcCom,16,intel core i9-13900hx,32gb,rtx 4080,No Os/ Linux,1tb ssd,2649
 
@@ -5391,15 +5387,15 @@ Realme,14,intel core i5-11320h,8gb,integrated graphics,No Os/ Linux,512gb ssd,10
 
 Samsung,15.6,intel celeron n4000,6gb,integrated graphics,No Os/ Linux,64gb emmc,424.85
 
-Samsung,13.3.365.12,intel core i5,16gb,integrated graphics,No Os/ Linux,512gb ssd,1560.85
+Samsung,13.3,intel core i5,16gb,integrated graphics,No Os/ Linux,512gb ssd,1560.85
 
-Samsung,15.6.365.12,intel core i5-1335u,8gb,integrated graphics,No Os/ Linux,512gb ssd,1030.85
+Samsung,15.6,intel core i5-1335u,8gb,integrated graphics,No Os/ Linux,512gb ssd,1030.85
 
-Samsung,14.365.12,intel core i7-1360p,16gb,integrated graphics,No Os/ Linux,512gb ssd,1950.85
+Samsung,14.3,intel core i7-1360p,16gb,integrated graphics,No Os/ Linux,512gb ssd,1950.85
 
 Samsung,16,intel core i7-13700h,16gb,rtx 4050,No Os/ Linux,1tb ssd,2979
 
-Samsung,16.365.12,intel core i7-13700h,16gb,rtx 4050,No Os/ Linux,1tb ssd,3060.84
+Samsung,16.3,intel core i7-13700h,16gb,rtx 4050,No Os/ Linux,1tb ssd,3060.84
 
 Toshiba,13.3,intel core i7-6500u,16gb,integrated graphics,No Os/ Linux,256gb ssd,1087.4
 
