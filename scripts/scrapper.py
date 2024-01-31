@@ -39,23 +39,26 @@ def bucar_opsys(laptop_data,marca):
     
     return 'No Os/ Linux'
 
+#Función que se conecta a pccomponentes y guarda el html en local 
 def guarda_datos_html(i=0):
     try:
         options = Options()
         options.headless = True
+        #Abrimos el navegador
         driver = webdriver.Firefox(options=options)
         
         time.sleep(5)
+        #Vamos a la página indicada pccomponentes.com/laptops
         driver.get(url+str(i))
-        
+        #Esperamos 30 segundos hasta que aparezca el botón de cookies y al aparecer hace clik
         accept_cookies = WebDriverWait(driver, 30).until(
             EC.presence_of_element_located((By.ID, 'cookiesAcceptAll'))
         )
         
         accept_cookies.click()
-        
+        #Descargamos el HTML
         html = driver.page_source
-        
+        #Lo guardamos en local
         with open(f'html\\laptops_{i}.html','w',encoding="utf-8") as document:
             document.write(html)
             
@@ -63,7 +66,9 @@ def guarda_datos_html(i=0):
     except:
         print(f'Error en página: {i}')
 
-def get_datos_html(i=1):
+# Función que abre el HTML guardado con anterioridad y filtra los datos
+# para guardarlos en un csv ordenados
+def get_datos_html(i=0):
     try:
         with open(f'laptop_data_actual.csv','+a') as ldata:
             
@@ -106,12 +111,11 @@ def get_datos_html(i=1):
     
                     
                     
-            
+# Flujo principal
 def main():
-    for i in range(21,58):
+    for i in range(0,58):
         guarda_datos_html(i)
         time.sleep(30)
         get_datos_html(i)
-    
     print('Done!!')
 main()
