@@ -77,6 +77,7 @@ def get_datos_html(i=0):
                 
             
             with open(f'html\\laptops_{i}.html','r',encoding="utf-8") as document:
+                
                 html = BeautifulSoup(document.read(), 'html.parser')
                 products = html.find_all('a')
                 
