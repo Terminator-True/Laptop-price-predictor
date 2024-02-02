@@ -1,9 +1,10 @@
 <?php
 
-namespace Controllers;
+namespace Controllers\FormController;
 
+use Controllers\Controller\Controller;
 
-class FormController
+class FormController extends Controller
 {
 
     public function index()

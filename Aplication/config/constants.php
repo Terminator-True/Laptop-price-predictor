@@ -1,12 +1,21 @@
 <?php 
-use Configuration\Configuration;
+namespace app\config;
 
-$configuration = new Configuration();
-$config = $configuration->get_constants();
+use app\config\Configuration;
 
 
-define('APPROOT', dirname(dirname(__FILE__)));
-define('URLROOT', $config->URLROOT);
-define('SITENAME', $config->SITENAME);
+class Constants
+{
+    public function __construct()
+    {
+        $configuration = new Configuration();
+        $config = $configuration->get_constants();
+        
+        
+        define('APPROOT', dirname(dirname(__FILE__)));
+        define('URLROOT', $config->URLROOT);
+        define('SITENAME', $config->SITENAME);        
+    }
+}
 
 
